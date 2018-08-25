@@ -1,0 +1,7 @@
+C:\Users\AlexM\OneDrive - Edinburgh Napier University\Year 2\Courses\2 Software Eng Methods\Coursework\Part 2\VS\Build a Bike\Build-A-Bike\obj\Debug\Business.csprojResolveAssemblyReference.cache
+C:\Users\AlexM\OneDrive - Edinburgh Napier University\Year 2\Courses\2 Software Eng Methods\Coursework\Part 2\VS\Build a Bike\Build-A-Bike\obj\Debug\Business.csproj.GenerateResource.Cache
+C:\Users\AlexM\OneDrive - Edinburgh Napier University\Year 2\Courses\2 Software Eng Methods\Coursework\Part 2\VS\Build a Bike\Build-A-Bike\bin\Debug\Business.dll
+C:\Users\AlexM\OneDrive - Edinburgh Napier University\Year 2\Courses\2 Software Eng Methods\Coursework\Part 2\VS\Build a Bike\Build-A-Bike\bin\Debug\Business.pdb
+C:\Users\AlexM\OneDrive - Edinburgh Napier University\Year 2\Courses\2 Software Eng Methods\Coursework\Part 2\VS\Build a Bike\Build-A-Bike\obj\Debug\Business.Properties.Resources.resources
+C:\Users\AlexM\OneDrive - Edinburgh Napier University\Year 2\Courses\2 Software Eng Methods\Coursework\Part 2\VS\Build a Bike\Build-A-Bike\obj\Debug\Business.dll
+C:\Users\AlexM\OneDrive - Edinburgh Napier University\Year 2\Courses\2 Software Eng Methods\Coursework\Part 2\VS\Build a Bike\Build-A-Bike\obj\Debug\Business.pdb

@@ -1,0 +1,13 @@
+C:\Users\AlexM\OneDrive - Edinburgh Napier University\Year 2\Courses\2 Software Eng Methods\Coursework\Part 2\VS\Build a Bike\Build-A-Bike\bin\Debug\Build-A-Bike.exe.config
+C:\Users\AlexM\OneDrive - Edinburgh Napier University\Year 2\Courses\2 Software Eng Methods\Coursework\Part 2\VS\Build a Bike\Build-A-Bike\bin\Debug\Build-A-Bike.exe
+C:\Users\AlexM\OneDrive - Edinburgh Napier University\Year 2\Courses\2 Software Eng Methods\Coursework\Part 2\VS\Build a Bike\Build-A-Bike\bin\Debug\Build-A-Bike.pdb
+C:\Users\AlexM\OneDrive - Edinburgh Napier University\Year 2\Courses\2 Software Eng Methods\Coursework\Part 2\VS\Build a Bike\Build-A-Bike\obj\Debug\MainWindow.baml
+C:\Users\AlexM\OneDrive - Edinburgh Napier University\Year 2\Courses\2 Software Eng Methods\Coursework\Part 2\VS\Build a Bike\Build-A-Bike\obj\Debug\MainWindow.g.cs
+C:\Users\AlexM\OneDrive - Edinburgh Napier University\Year 2\Courses\2 Software Eng Methods\Coursework\Part 2\VS\Build a Bike\Build-A-Bike\obj\Debug\App.g.cs
+C:\Users\AlexM\OneDrive - Edinburgh Napier University\Year 2\Courses\2 Software Eng Methods\Coursework\Part 2\VS\Build a Bike\Build-A-Bike\obj\Debug\Build-A-Bike_MarkupCompile.cache
+C:\Users\AlexM\OneDrive - Edinburgh Napier University\Year 2\Courses\2 Software Eng Methods\Coursework\Part 2\VS\Build a Bike\Build-A-Bike\obj\Debug\Build-A-Bike.g.resources
+C:\Users\AlexM\OneDrive - Edinburgh Napier University\Year 2\Courses\2 Software Eng Methods\Coursework\Part 2\VS\Build a Bike\Build-A-Bike\obj\Debug\Build_A_Bike.Properties.Resources.resources
+C:\Users\AlexM\OneDrive - Edinburgh Napier University\Year 2\Courses\2 Software Eng Methods\Coursework\Part 2\VS\Build a Bike\Build-A-Bike\obj\Debug\Build-A-Bike.csproj.GenerateResource.Cache
+C:\Users\AlexM\OneDrive - Edinburgh Napier University\Year 2\Courses\2 Software Eng Methods\Coursework\Part 2\VS\Build a Bike\Build-A-Bike\obj\Debug\Build-A-Bike.exe
+C:\Users\AlexM\OneDrive - Edinburgh Napier University\Year 2\Courses\2 Software Eng Methods\Coursework\Part 2\VS\Build a Bike\Build-A-Bike\obj\Debug\Build-A-Bike.pdb
+C:\Users\AlexM\OneDrive - Edinburgh Napier University\Year 2\Courses\2 Software Eng Methods\Coursework\Part 2\VS\Build a Bike\Build-A-Bike\obj\Debug\Build-A-Bike.csprojResolveAssemblyReference.cache
